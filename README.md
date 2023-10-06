@@ -1,2 +1,2 @@
 # sitelogo-landing-page
-https://fat-basketball.surge.sh
+https://ahmedsohail-assign-15-wma-139683.netlify.app/
